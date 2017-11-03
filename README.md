@@ -16,7 +16,7 @@ npm start
 Follow instructions shown on terminal screen to install app on device or emulatore.
 ```
 
-This project is tested only on Android but should work on iOS as well.
+###This project is tested only on Android but should work on iOS as well.
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
