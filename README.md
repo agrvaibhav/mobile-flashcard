@@ -1,11 +1,5 @@
-# Udacity React Nanodegree Project 3
-> Udacicards: A Mobile Flashcard App
-
-## Why this project?
-
-From Udacity Project Details:
-
-"This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input."
+# Udacity ReactND Mobile Flashcards
+Mobile application (Android or iOS - or both) that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks
 
 ## Usage
 
@@ -19,8 +13,10 @@ or
 ```bash
 npm install
 npm start
+Follow instructions shown on terminal screen to install app on device or emulatore.
 ```
 
+This project is tested only on Android but should work on iOS as well.
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
